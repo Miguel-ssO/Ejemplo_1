@@ -42,6 +42,7 @@ fun App() {
                 ) {
                     Image(painterResource(Res.drawable.compose_multiplatform), null)
                     Text("Compose: $greeting")
+                    Text("Primer cambio realizado por rama2")
                 }
             }
         }
